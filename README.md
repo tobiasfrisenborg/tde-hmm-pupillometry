@@ -8,7 +8,7 @@ MSc Cognitive Science
 Aarhus University  
 School of Communication and Culture  
 
-*View the results at [Streamlit](https://tobiasfrisenborg-thesis-streamlit-95zw76.streamlit.app/)*
+*View the results at [Streamlit](https://tobiasfrisenborg-tde-hmm-pupillometry-streamlit-z0wd6v.streamlit.app/)*
 
 The project used the trained TDE-HMM solution presented by [Vidaurre et al. (2018)](https://www.nature.com/articles/s41467-018-05316-z)
 to classify transient brain states for resting state brain activity collected from 10 subjects.

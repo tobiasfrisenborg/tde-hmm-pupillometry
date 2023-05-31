@@ -290,7 +290,7 @@ School of Communication and Culture  """
 mention(
     label="Code is available on GitHub",
     icon="github",
-    url="https://github.com/tobiasfrisenborg/thesis",
+    url="https://github.com/tobiasfrisenborg/tde-hmm-pupillometry",
 )
 
 """##### Project description
